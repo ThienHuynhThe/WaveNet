@@ -3,8 +3,8 @@ The convergence of radar and communication systems in 6G networks creates a crit
 WaveNet leverages innovative modules, notably Cost-Efficient Feature Awareness (CEFA). CEFA integrates two key structural blocks: grouped-of-kernel-wise residual connections and dual asymmetric channel attention. These modules significantly reduce network complexity while maintaining classification accuracy.
 Extensive simulations on an impaired signal dataset containing eight radar and communication waveform types demonstrate WaveNet's effectiveness and robustness.
 
-<img src="https://github.com/ThienHuynhThe/WaveNet/blob/master/IRC.png" height="204px" width="548px" >
-<img src="https://github.com/ThienHuynhThe/WaveNet/blob/master/WaveNet.png" height="371px" width="548px" >
+<img src="https://github.com/ThienHuynhThe/WaveNet/blob/main/IRC.png" height="204px" width="548px" >
+<img src="https://github.com/ThienHuynhThe/WaveNet/blob/main/WaveNet.png" height="371px" width="548px" >
 
 The Matlab code and dataset provided here are included in the under-review paper at IEEE Internet of Things Journal
 
