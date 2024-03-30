@@ -4,5 +4,7 @@ WaveNet leverages innovative modules, notably Cost-Efficient Feature Awareness (
 Extensive simulations on an impaired signal dataset containing eight radar and communication waveform types demonstrate WaveNet's effectiveness and robustness.
 
 
+
 The Matlab code and dataset provided here are included in the under-review paper at IEEE Internet of Things Journal
+
 Thien Huynh-The, Van-Phuc Hoang, Jae-Woo Kim, Minh-Thanh Le, and Ming Zeng, "WaveNet: Towards Waveform Classification in Integrated Radar-Communication Systems with Improved Accuracy and Reduced Complexity," IEEE IoTJ, 2024.
